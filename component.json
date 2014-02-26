@@ -1,0 +1,10 @@
+{
+  "name": "ice-core-temperatures",
+  "repo": "corpora/ice-core-temperatures",
+  "description": "Ice Core Temperatures corpus",
+  "version": "0.0.1",
+  "keywords": ["corpus", "nlp", "json", "data"],
+  "main": "index.json",
+  "json": ["index.json"],
+  "license": "MIT"
+}
